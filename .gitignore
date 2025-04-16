@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/bot_sessions
+
+#debug
+baileys.log*
+core.class.log*
+queue.class.log*
+
+bot.qr.png
